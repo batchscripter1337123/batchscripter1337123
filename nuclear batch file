@@ -1,0 +1,10 @@
+@echo off
+msg * "made by batchscripter1337123"
+timeout /t 3 /nobreak
+msg * "activating game"
+goto :game
+
+:game
+msg * "delete me pls"
+timeout /t 1 /nobreak
+goto :game
